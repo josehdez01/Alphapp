@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alphapp</string>
+
+    <string name="dlg_alert_msg">Fallo al abrir la camara</string>
+    <string name="dlg_alert_ok_btn_caption">Aceptar</string>
+    <string name="dlg_alert_cancel_btn_caption">Cancelar</string>
+</resources>
